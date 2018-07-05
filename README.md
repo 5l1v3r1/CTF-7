@@ -1,0 +1,2 @@
+# CTF
+all ctf
